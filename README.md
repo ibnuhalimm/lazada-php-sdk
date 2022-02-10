@@ -8,4 +8,4 @@ Via Composer
 
 Laravel 9: `composer require appolous/lazada-php-sdk`
 
-Laravel 8: `composer require appolous/lazada-php-sdk:1.1` (PHP 7.3 / PHP 8)
+Laravel 8: `composer require appolous/lazada-php-sdk:1.2` (PHP 7.3 / PHP 8)
